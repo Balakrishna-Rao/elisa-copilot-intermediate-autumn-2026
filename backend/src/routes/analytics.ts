@@ -4,7 +4,7 @@ import { computeGaps, computeHeatmap } from '../analytics.js';
 
 export function analyticsRouter(db: DB): Router {
   const r = Router();
-
+ // new comments
   r.get('/heatmap', (req, res) => {
     const teamId = req.query.teamId;
     if (typeof teamId !== 'string') return res.status(400).json({ error: 'teamId query param required' });
