@@ -8,6 +8,7 @@ The exercises can be found in the [exercises directory](exercises/):
 - [02-agentic-skills.md](exercises/02-agentic-skills.md)
 - [03-custom-agents.md](exercises/03-custom-agents.md)
 - [04-mcp.md](exercises/04-mcp.md)
+- [05-agentic-workflows.md](exercises/05-agentic-workflows.md)
 
 The exercises are performed against the small full-stack **Team Skills Matrix Platform** web app included in this repo. The app is intentionally simple so you can focus on practicing Copilot workflows rather than learning a complex codebase.
 
